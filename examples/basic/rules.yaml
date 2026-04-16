@@ -1,0 +1,21 @@
+# pixsize example rules file
+# Save as rules.yaml and use: pixsize check ./your-dir --rules rules.yaml
+
+rules:
+  - name: sprite-tile
+    min_width: 16
+    max_width: 256
+    must_be_square: true
+    allowed_formats: [PNG]
+
+  - name: web-upload
+    max_filesize_mb: 5.0
+    max_width: 4096
+    max_height: 4096
+    allowed_formats: [PNG, JPEG, WEBP]
+
+  - name: app-icon
+    min_width: 512
+    max_width: 2048
+    must_be_square: true
+    allowed_formats: [PNG]
