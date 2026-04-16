@@ -1,13 +1,13 @@
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![ja](https://img.shields.io/badge/lang-日本語-red.svg)](README.ja.md)
 
-![pixsize](https://capsule-render.vercel.app/api?type=candy&color=gradient&customColorList=12&text=pixsize&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91%E3%83%90%E3%83%83%E3%83%81%E7%94%BB%E5%83%8F%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BFCLI&descAlignY=55&descSize=16)
+[![header](https://capsule-render.vercel.app/api?type=candy&color=gradient&customColorList=12&height=220&section=header&text=pixsize&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E5%90%91%E3%81%91%E3%83%90%E3%83%83%E3%83%81%E7%94%BB%E5%83%8F%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BFCLI&descSize=16&descAlignY=55)](https://github.com/izag8216/pixsize)
 
-[![Python](https://img.shields.io/badge/Python-3.10+-for-the-badge?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://python.org)
-[![Tests](https://img.shields.io/badge/Tests-Pytest-for-the-badge?style=for-the-badge&logo=pytest&logoColor=white&color=0A9EDC)](https://pytest.org)
-[![Coverage](https://img.shields.io/badge/Coverage-80%25+-for-the-badge?style=for-the-badge&logo=codecov&logoColor=white&color=F01F7A)](https://codecov.io)
-[![License](https://img.shields.io/badge/License-MIT-for-the-badge?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=green)](LICENSE)
-[![Linter](https://img.shields.io/badge/Linter-Ruff-for-the-badge?style=for-the-badge&logo=ruff&logoColor=white&color=D2FFED)](https://docs.astral.sh/ruff/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Tests](https://img.shields.io/badge/Tests-56%20passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org)
+[![Coverage](https://img.shields.io/badge/Coverage-89%25-F01F7A?style=for-the-badge&logo=codecov&logoColor=white)](https://codecov.io)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Linter](https://img.shields.io/badge/Linter-Ruff-D2FFED?style=for-the-badge&logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
 
 **pixsize** はゲーム開発者・デザイナー・Web開発者向けの軽量CLIツールです。ImageMagickの重厚さなしに、画像のスキャン・検証・リサイズ・一括リネームができます。
 
