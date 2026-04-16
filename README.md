@@ -1,7 +1,7 @@
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![ja](https://img.shields.io/badge/lang-日本語-red.svg)](README.ja.md)
 
-[![header](https://capsule-render.vercel.app/api?type=candy&color=gradient&customColorList=12&height=220&section=header&text=pixsize&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Batch%20Image%20Metadata%20CLI%20for%20Creators&descSize=16&descAlignY=55)](https://github.com/izag8216/pixsize)
+[![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&height=220&section=header&text=pixsize&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Batch%20Image%20Metadata%20CLI%20for%20Creators&descSize=16&descAlignY=55)](https://github.com/izag8216/pixsize)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Tests](https://img.shields.io/badge/Tests-56%20passing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org)
@@ -164,4 +164,4 @@ MIT License -- see [LICENSE](LICENSE) for details.
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=candy&color=gradient&customColorList=12&section=footer&fontSize=14&text=Made%20with%20pixsize&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&section=footer&fontSize=14&text=Made%20with%20pixsize&fontColor=ffffff)
